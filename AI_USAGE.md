@@ -8,21 +8,15 @@ I deliberately chose **ChatGPT** over tools like Grok, Claude, Gemini, or even A
 
 This file documents how I used ChatGPT, where it helped most, and the boundaries I set for myself to ensure I remain an active learner, not just a passive user.
 
----
-
 ## 🧠 Idea Generation
 
 At the beginning of every project, I use ChatGPT to brainstorm potential ideas. The goal is to explore multiple directions quickly and find one that feels original, valuable, and well-aligned with my interests or skill goals.
 
 One brainstorming technique I’ve found effective is to first write down my own ideas before consulting language models. Then, I prompt the models as if I had no ideas at all. This approach generates the widest range of suggestions. With both lists in hand, mine and the AI's, I can mix and match the best parts, calibrate trade-offs, and refine the direction with much more creativity.
 
----
-
 ## 🧱 Tech Stack & Tooling Decisions
 
 I use AI to evaluate and refine my technology stack. Based on the goals and constraints of the project, ChatGPT helps surface relevant tools, libraries, and frameworks, especially those commonly used together in the ecosystem I'm working with. This helps me avoid decision paralysis and ensures I’m not missing standard solutions.
-
----
 
 ## 🧩 Schema / Structure Design
 
@@ -32,31 +26,21 @@ In most cases, a well-structured database schema is enough to anchor the archite
 
 By starting with data flow in mind and aligning both technical and visual elements early on, I can validate the direction of the project before writing a single line of application code—aside from the schema itself. This approach helps surface valuable feedback early, reducing the need for rework later.
 
----
-
 ## 🗺️ Roadmap & Planning
 
 I often use AI to co-create a roadmap. It helps outline features, phases, and technical considerations I might overlook. These suggestions are never final, but they give me a structured starting point to refine and follow.
-
----
 
 ## 🗂️ Project Structure & Naming
 
 I sometimes overthink file structure and naming conventions, especially when I am using unopinionated ecosystems. ChatGPT helps by providing example project trees or patterns that are practical and maintainable. Once I find a layout I like, I stick to it. I may miss a detail, but the structure is still clear and scalable.
 
----
-
 ## ✍️ Manual Review & Adaptation
 
 I never copy and paste blindly, I did it before and it backfired. Every AI-generated code is manually reviewed and adjusted to fit the project. If something doesn’t make sense to me, I don’t use it. This ensures I maintain full understanding and control over the codebase.
 
----
-
 ## 🧪 Spot Checks & Code Review
 
 As the project progresses, I gradually reduce AI involvement. I occasionally validate code snippets, logic, or patterns with ChatGPT—especially helpful when not using strongly typed systems where small errors can go unnoticed. These quick sanity checks save time and reduce bugs.
-
----
 
 ## 📌 My Personal Rules for Using AI
 
@@ -67,8 +51,6 @@ To keep myself sharp and avoid over-dependence, I’ve established a few persona
 
 - ✅ **Understand everything before using it**
   If ChatGPT gives me something I don’t understand, I don’t use it. Period.
-
----
 
 ## ⚠️ Bonus: How Vibe Coding Backfired at Me
 
