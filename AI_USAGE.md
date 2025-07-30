@@ -26,10 +26,6 @@ I use AI to evaluate and refine my technology stack. Based on the goals and cons
 
 ## 🧩 Schema / Structure Design
 
-Here’s a refined and clearer version of your text with improved flow and reduced redundancy:
-
----
-
 Most times I begin development by understanding the problem I’m solving and identifying how data needs to move through the system. This leads me to design a data flow-—whether as a schema, a database structure, or another format—-to visualize how related data points interact.
 
 In most cases, a well-structured database schema is enough to anchor the architecture. I use ChatGPT to generate a starting schema tailored to the use case, then refine it based on my own considerations. I often complement this with a few database views to imagine how data might be displayed on the frontend. At this stage, I’ll also sketch out a quick Figma draft to share with non-technical stakeholders for early feedback.
